@@ -37,3 +37,10 @@ Be aware that you won't get any extra points for adding additional features if t
 
 The bare minimum of this assignment was easy enough. Using some while loops and conditions to play the game out was simple. I also used Thread.sleep() in order to slow down the moves, so that it created some element of excitement.
 I also added suits to the game for it to look more pleasing to the eye, and a little bit more convincing for the player.
+
+![code-example](https://user-images.githubusercontent.com/87648450/134379621-dcae89ef-0b1d-4877-b778-d15d7a305b33.PNG)
+
+---
+
+![program](https://user-images.githubusercontent.com/87648450/134379648-b16dca6d-1f48-4d05-86fd-d53f21e61d14.PNG)
+
