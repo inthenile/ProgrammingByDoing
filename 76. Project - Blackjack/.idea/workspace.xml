@@ -38,7 +38,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="76. Project - Blackjack" />
       <method v="2">
         <option name="Make" enabled="true" />
